@@ -15,10 +15,12 @@ void solution()
    cin >> a >> b ;
    a=a%m ;
    b=b%m ;
-   
+
+   //  if every prime factor of 'a' divides 'b' , then print "YES" else "NO" 
+
    while(true)
    {
-       ll temp=__gcd(a,b) ;
+       ll temp=__gcd(a,b) ; 
        if(temp==1)
        {
            break ;
