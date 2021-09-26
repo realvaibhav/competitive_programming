@@ -14,6 +14,7 @@ void solution()
    cin >> original ;
    ll n=original.size() ;
    string waved=original ;
+   
    for(ll i=0 ; i<n ; i++)
    {
        if(original[i]=='1')
@@ -25,6 +26,7 @@ void solution()
            waved[i]='1' ;
        }
    }
+
    bool flag=true ;
    ll count=0 ;
    for(ll i=0 ; i<n ; i++)

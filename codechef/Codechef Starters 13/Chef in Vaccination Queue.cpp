@@ -32,8 +32,7 @@ void solution()
 
    cout << sum << endl ;
    
-
-   
+      
 }
 
 

@@ -12,6 +12,7 @@ void solution()
 { 
    ll m , n , k  ;
    cin >> m >> n >> k ;
+   
    if(n*k <m)
    {
        cout << "YES" << endl ;

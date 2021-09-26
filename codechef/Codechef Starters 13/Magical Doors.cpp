@@ -12,6 +12,7 @@ void solution()
 { 
    ll p,a,b,c,x,y  ;
    cin >> p >> a >> b >> c >> x >> y ;
+   
    if((b + a*x)<=(c + a*y))
    {
        cout << p/(b + a*x) << endl ;
