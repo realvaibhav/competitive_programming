@@ -1,8 +1,8 @@
 # Competitive Programming
 
-In this repo , I upload solutions of problems that i have solved on competitive programming platforms like codeforces and codechef.
+here, I upload solutions to problems that I have solved on competitive programming platforms like CodeForces and CodeChef.
 
-1. [Codechef](https://github.com/realvaibhav/competitive_programming/tree/main/codechef)
-2. [Codeforces](https://github.com/realvaibhav/competitive_programming/tree/main/codeforces)
-3. [Kick Start](https://github.com/realvaibhav/competitive_programming/tree/main/kick%20start)
+[Codechef](https://github.com/realvaibhav/competitive_programming/tree/main/codechef)
+[Codeforces](https://github.com/realvaibhav/competitive_programming/tree/main/codeforces)
+[Kick Start](https://github.com/realvaibhav/competitive_programming/tree/main/kick%20start)
 
